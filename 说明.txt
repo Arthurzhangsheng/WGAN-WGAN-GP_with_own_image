@@ -1,0 +1,1 @@
+基于tensorflow实现的wgan和wgan_gp，将数据集放于data文件夹下即可，如data/数据/*.jpg
